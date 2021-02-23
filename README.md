@@ -1,23 +1,22 @@
-#  みらい
+### みらい
 # ほしぞら
 
 欢迎访问我的个人主页！首先容我向你介绍一下自己\~
 
 <!-- .slide -->
 
-## Contact|联系方式
+## Contact
+
+<!-- .slide vertical=true -->
 
 - Address: **Guangzhou, China**
 - Phone: **+86 13529830360**
 - Site: **<https://lxysaiblogs.com>**
-
-<!-- .slide vertical=true -->
-
-- E-mail:
-  - **[13529830360@163.com](mailto:13529830360@163.com)**
-  - **[3413778508@qq.com](3413778508@qq.com)**
 - WeChat: **LXY\_qqhru2021**
 - QQ: **3413778508**
+- - E-mail:
+  - **[13529830360@163.com](mailto:13529830360@163.com)**
+  - **[3413778508@qq.com](3413778508@qq.com)**
 
 <!-- .slide -->
 
