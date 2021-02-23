@@ -1,22 +1,22 @@
-# 星合の空
+# みらい-ほしぞら
 
-欢迎访问我的个人主页！下面向你介绍一下我自己吧\~
+欢迎访问我的个人主页！首先容我向你介绍一下自己\~
 
 <!-- .slide -->
 
-## Contact
+## Contact|联系方式
 
-- Address: **Sun Yat-sen University - 132 Waihuan East Rd. - Guangzhou, China**
-- Phone: **+86 18756280097**
-- Site: **<https://wu-kan.cn>**
+- Address: **Guangzhou, China**
+- Phone: **+86 13529830360**
+- Site: **<https://lxysaiblogs.com>**
 
 <!-- .slide vertical=true -->
 
 - E-mail:
-  - **[i@wu-kan.cn](mailto:i@wu-kan.cn)**
-  - **[wukan3@mail2.sysu.edu.cn](mailto:wukan3@mail2.sysu.edu.cn)**
-- WeChat: **Wu-\_-Kan**
-- QQ: **942759535**
+  - **[13529830360@163.com](mailto:13529830360@163.com)**
+  - **[3413778508@qq.com](3413778508@qq.com)**
+- WeChat: **LXY\_qqhru2021**
+- QQ: **3413778508**
 
 <!-- .slide -->
 
@@ -24,13 +24,13 @@
 
 <!-- .slide vertical=true -->
 
-School of Data and Computer Science, Sun Yat-sen University, Guangzhou
+School of Computer and Control Engineering, Qiqihar University, Tsitsihar
 
-- Bachelor of Computer Science (Supercomputer Class), Sept. 2017 - Jul. 2021(expected)
-  - Principle of Supercomputer
-  - Parallel and Distributed Computing
-  - High Performance Computing
-  - Multicore Computing
+- Bachelor of Computer (Network Engineering), Sept. 2017 - Jul. 2021(expected)
+  - Fundamentals of Disk Operating System
+  - Basis of Software of Computer
+  - Network Communication Protocol
+  - network topology design
 
 <!-- .slide -->
 
