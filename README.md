@@ -14,7 +14,7 @@
 - Site: **<https://lxysaiblogs.com>**
 - WeChat: **LXY\_qqhru2021**
 - QQ: **3413778508**
-- - E-mail:
+- E-mail:
   - **[13529830360@163.com](mailto:13529830360@163.com)**
   - **[3413778508@qq.com](3413778508@qq.com)**
 
